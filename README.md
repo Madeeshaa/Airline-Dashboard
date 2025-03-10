@@ -23,8 +23,36 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset
 - Slicer Functionality:
   Users can filter data by airport name for deeper analysis.
 
+---
+
 ## Preview
+![Image](https://github.com/user-attachments/assets/4e0ca21a-83e2-4f47-b541-65ab817a3110)
+
+---
+## Insights
 
 
+---
+
+## Tools Used
+- Microsoft Excel: For data analysis, visualization, and dashboard creation.
+
+- Excel Slicers: For interactive data filtering.
+
+- Pivot Tables & Charts: For summarizing and visualizing data.
+
+---
+
+### How to Use
+1. Download the .xlsx file from the repository.
+
+2. Open the file in Microsoft Excel.
+
+3. Interact with the slicers and charts to explore the data.
+
+4. Use the dashboard to analyze airline operations and passenger demographics.
+
+---
+ Feel free to contribute to this repository or reach out with suggestions! 
 
 
