@@ -7,6 +7,8 @@ This repository contains an Airline Data Dashboard built using Microsoft Excel. 
 The dataset used in this project is sourced from Kaggle:
 https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset
 
+This dataset comprises diverse parameters relating to airline operations on a global scale. The dataset prominently incorporates fields such as Passenger ID, First Name, Last Name, Gender, Age, Nationality, Airport Name, Airport Country Code, Country Name, Airport Continent, Continents, Departure Date, Arrival Airport, Pilot Name, and Flight Status.
+
 ---
 
 ## Features
@@ -27,10 +29,6 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset
 
 ## Preview
 ![Image](https://github.com/user-attachments/assets/4e0ca21a-83e2-4f47-b541-65ab817a3110)
-
----
-## Insights
-
 
 ---
 
