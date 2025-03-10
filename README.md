@@ -11,8 +11,7 @@ This dataset comprises diverse parameters relating to airline operations on a gl
 
 ---
 
-## Features
-🛠️ Dashboard Features
+## Dashboard Features
 - Visualizations:
   Bar charts, column charts, and a donut chart to display key insights.
 
