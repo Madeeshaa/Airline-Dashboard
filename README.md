@@ -41,7 +41,7 @@ This dataset comprises diverse parameters relating to airline operations on a gl
 ---
 
 ### How to Use
-1. Download the .xlsx file from the repository.
+1. Download the [Excel file](./Airline.xlsx) from the repository.
 
 2. Open the file in Microsoft Excel.
 
